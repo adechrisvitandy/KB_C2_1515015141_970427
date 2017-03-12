@@ -1,0 +1,11 @@
+ 1. Ubah bahasa Prolog berikut menjadi bahasa natural: 
+ Dian adalah nama seseorang.
+ Atoz adalah sebuah merek mobil.
+ Dian menyukai mobil atoz.
+ Mobil atoz dijual.
+ X dapat membeli y jika.
+ X adalah orang.
+ Y adalah mobil.
+ X menyukai Y.
+ Y di jual.
+ Apa yang _ suka?

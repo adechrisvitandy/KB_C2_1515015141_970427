@@ -1,0 +1,10 @@
+ 2.Ubah bahasa natural berikut menjadi bahasa Prolog: 
+ Hobi("Ricky,Catur").
+ Orang ("Embang,Pemalas").
+ Seorang("Yusida,Vegetarian").
+ Pandai ("Kusdiar,Gitar").
+ Milik ("Mobil, Sadek"), warna("Mobil,Merah"), merek("Mobil,BMW").
+ Pemain ("Awan, piano"), berasal("Awan, pontianak"), suku("Awan , jawa").
+ Dikatakan ("orang,baik"):-sifat ("orang, penyayang"), sifat("orang, dermawan").
+ Dikatakan("orang, pintar"):- dapat("matematika, tinggi"); dapat("ipa, tinggi"); dapat ("ips, tinggi").
+ Setiap("Orang, mati").
